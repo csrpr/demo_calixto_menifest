@@ -22,6 +22,7 @@
     <linkfile dest="calixto-setup-release.sh" src="tools/calixto-setup-release.sh"/>
     <linkfile dest="setup-environment" src="tools/setup-environment"/>
     <linkfile dest="install_prerequisites.sh" src="tools/install_prerequisites.sh"/>
+    <linkfile dest="README-CALIXTOBSP" src="sources/README-CALIXTO-BSP.md"/>
   </project>
   <project name="fsl-community-bsp-base" path="sources/base" remote="community" revision="60f79f7af60537146298560079ae603260f0bd14" upstream="kirkstone"/>
   <project name="meta-browser" path="sources/meta-browser" remote="OSSystems" revision="e232c2e21b96dc092d9af8bea4b3a528e7a46dd6"/>
