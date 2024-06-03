@@ -17,7 +17,7 @@
   <remote fetch="https://github.com/nxp-imx-support" name="imx-support"/>
   
   <!-- Calixto Yocto Project BSP -->
-  <project name="meta-calixto-nxp" path="sources/meta-calixto-nxp" remote="eagle" revision="refs/heads/kirkstone" upstream="kirkstone">
+  <project name="meta-calixto-nxp" path="sources/meta-calixto-nxp" remote="eagle" revision="41f26b2ecbddee8d12c1b0e2ce9c4056048f8674" upstream="kirkstone">
   </project>
   
   <project name="fsl-community-bsp-base" path="sources/base" remote="community" revision="60f79f7af60537146298560079ae603260f0bd14" upstream="kirkstone">
